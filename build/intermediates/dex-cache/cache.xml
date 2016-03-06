@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/build/intermediates/pre-dexed/debug/classes-907a43f1450311fcf054414059b92717af0990c0.jar" />
+    </item>
+    <item
+        jar="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bb36004beb02b69562cbec9aa7d6a3cf16bf5d1b">
+        <dex dex="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/build/intermediates/pre-dexed/debug/classes-02233a9253d07d79f5cd4a7fdddc4f5f3c82b660.jar" />
+    </item>
+    <item
+        jar="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/build/intermediates/pre-dexed/debug/classes-9a67d5cc92b5c7046067a504daefd30427da8c4c.jar" />
+    </item>
+    <item
+        jar="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/build/intermediates/pre-dexed/debug/classes-f9b74c1c9578b7f89ee98b9c56aa9eee769732c8.jar" />
+    </item>
+    <item
+        jar="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/build/intermediates/pre-dexed/debug/classes-92c480d2fbe6dfa54bd8492234bf9112e38b8871.jar" />
+    </item>
+    <item
+        jar="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/build/intermediates/pre-dexed/debug/classes-f568caf12183cebae14344b74ffe3ba8ce4b4ddd.jar" />
+    </item>
+    <item
+        jar="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/build/intermediates/pre-dexed/debug/classes-1e0b6cd8c351bc39ee5f7cef54caf6d05c174838.jar" />
+    </item>
+    <item
+        jar="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/build/intermediates/pre-dexed/debug/classes-a2ef1ece863cae78c2071cbf8f8ca31119134d65.jar" />
+    </item>
+    <item
+        jar="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-62e370d103a1b171b8a7116b5af7cad7194b3b7a.jar" />
+    </item>
+    <item
+        jar="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/build/intermediates/pre-dexed/debug/classes-f7ae5fa75ca7489cd58bc7d37ef804113b5230e3.jar" />
+    </item>
+    <item
+        jar="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/build/intermediates/pre-dexed/debug/classes-206d4d28c5d29b7072d58220547cfd83829fdd97.jar" />
+    </item>
+    <item
+        jar="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/build/intermediates/pre-dexed/debug/classes-911e8c57efbc051c8f79c36076dc561f91e53aa6.jar" />
+    </item>
+    <item
+        jar="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/libs/JavaLib/build/libs/JavaLib.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5e5867b991acf812dd70fb8c77cfa6e7c679cfea">
+        <dex dex="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/build/intermediates/pre-dexed/debug/JavaLib-f1ceab51d38097ae1a0990e9c40564d54a170044.jar" />
+    </item>
+    <item
+        jar="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/build/intermediates/pre-dexed/debug/classes-198fd37f19e9a98c06f2ed1490a2deca790cbae8.jar" />
+    </item>
+    <item
+        jar="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/build/intermediates/pre-dexed/debug/classes-d90829f0477266f1e48cce255f9ccf9899a4910a.jar" />
+    </item>
+    <item
+        jar="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/build/intermediates/pre-dexed/debug/classes-07bd85d79ab6c15386c5f2e445c34245dfa70d11.jar" />
+    </item>
+    <item
+        jar="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/build/intermediates/pre-dexed/debug/classes-03865744969934bc267c89c55d784594595f2812.jar" />
+    </item>
+    <item
+        jar="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/build/intermediates/pre-dexed/debug/classes-e2a63bae0d212c1f7f98f3b1999ef17306ac2949.jar" />
+    </item>
+    <item
+        jar="/home/esguti/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.18/b631d286463ced7cc42ee2171fe3beaed2836823/slf4j-api-1.7.18.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b631d286463ced7cc42ee2171fe3beaed2836823">
+        <dex dex="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/build/intermediates/pre-dexed/debug/slf4j-api-1.7.18-15c4453b2620b6149c58aa644cb80d0e6b77d9d1.jar" />
+    </item>
+    <item
+        jar="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/build/intermediates/pre-dexed/debug/classes-58c322e74728d2d02f36f6ff09f10fa98edf5d57.jar" />
+    </item>
+    <item
+        jar="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/build/intermediates/pre-dexed/debug/classes-f095fd5d691216f504d336459b0ef4b4b1219472.jar" />
+    </item>
+    <item
+        jar="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/build/intermediates/pre-dexed/debug/classes-0c9fd87e02dda801d023c6ef93471bb3e1efccaf.jar" />
+    </item>
+    <item
+        jar="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/build/intermediates/pre-dexed/debug/classes-4fa002dbe9c7cb184f9e095687b9000e3ef02824.jar" />
+    </item>
+    <item
+        jar="/home/esguti/Dev/Programs/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-ee09703ad67fedf3e5e9047c5e0cf592c87366b1.jar" />
+    </item>
+    <item
+        jar="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/build/intermediates/pre-dexed/debug/classes-5db08c42adb6210cef4833718c95dbe71981e3f7.jar" />
+    </item>
+    <item
+        jar="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/build/intermediates/pre-dexed/debug/classes-e9dac7f275afafe9a914517b03493ebc86cafb29.jar" />
+    </item>
+
+</items>

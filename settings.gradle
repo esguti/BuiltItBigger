@@ -1,0 +1,4 @@
+include ':app'
+include ':JavaLib'
+project(':JavaLib').projectDir = new File(rootDir, 'libs/JavaLib')
+

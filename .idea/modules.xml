@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file:///media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/BuiltItBigger.iml" filepath="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/BuiltItBigger.iml" />
+      <module fileurl="file:///media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/libs/JavaLib/JavaLib.iml" filepath="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/libs/JavaLib/JavaLib.iml" />
+      <module fileurl="file:///media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/app.iml" filepath="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/app.iml" />
+    </modules>
+  </component>
+</project>
