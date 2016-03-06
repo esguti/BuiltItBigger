@@ -130,5 +130,6 @@
     <orderEntry type="library" exported="" name="play-services-7.3.0" level="project" />
     <orderEntry type="library" exported="" name="play-services-base-7.3.0" level="project" />
     <orderEntry type="module" module-name="JavaLib" exported="" />
+    <orderEntry type="module" module-name="AndroidLib" exported="" />
   </component>
 </module>

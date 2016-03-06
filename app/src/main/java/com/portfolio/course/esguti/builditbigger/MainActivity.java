@@ -1,5 +1,6 @@
 package com.portfolio.course.esguti.builditbigger;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.ActionBarActivity;
 import android.view.Menu;
@@ -7,7 +8,8 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.Toast;
 
-import com.portfolio.course.esguti.JavaLib.*;
+import com.portfolio.course.esguti.JavaLib.Joker;
+import com.portfolio.course.esguti.androidlib.JokerActivity;
 
 public class MainActivity extends ActionBarActivity {
 
@@ -43,7 +45,10 @@ public class MainActivity extends ActionBarActivity {
     public void tellJoke(View view){
         Joker joker_class = new Joker();
         String joke = joker_class.tellJoke();
-        Toast.makeText(this, joke, Toast.LENGTH_SHORT).show();
+
+        Intent myIntent = new Intent(this, JokerActivity.class);
+        myIntent.putExtra(JokerActivity.JOKE_KEY, joke);
+        startActivity(myIntent);
     }
 
 
