@@ -13,12 +13,21 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Backend_Backend_android_endpoints.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Backend_android_endpoints.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/JavaLib_JavaLib.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/accessibility_test_framework_1_0.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/animated_vector_drawable_23_2_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/ant_1_8_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/ant_launcher_1_8_0.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_22_1_1.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_23_2_0.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/appengine_api_1_0_sdk_1_9_18.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/appengine_endpoints_1_9_18.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/appengine_endpoints_deps_1_9_18.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/asm_5_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/asm_analysis_5_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/asm_commons_5_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/asm_tree_5_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/asm_util_5_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/bcprov_jdk16_1_46.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/google_api_client_1_19_0.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/google_api_client_android_1_19_0.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/google_http_client_1_19_0.xml" afterPath="" />
@@ -27,10 +36,14 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/google_oauth_client_1_19_0.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/guava_jdk5_13_0.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/hamcrest_core_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/icu4j_53_1.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/jackson_core_2_1_3.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/jsr305_1_3_9.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/junit_4_12.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/maven_ant_tasks_2_1_3.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/mediarouter_v7_23_0_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/mockable_android_22.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/mockable_android_23.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/multidex_1_0_1.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_8_4_0.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_ads_8_4_0.xml" afterPath="" />
@@ -57,27 +70,29 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_vision_8_4_0.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_wallet_8_4_0.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_wearable_8_4_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/robolectric_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/robolectric_annotations_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/robolectric_resources_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/robolectric_utils_3_0.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/servlet_api_2_5.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/shadows_core_3_0.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/slf4j_api_1_7_18.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/sqlite4java_0_282.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_annotations_22_1_1.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_annotations_23_2_0.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_22_1_1.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_23_2_0.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_vector_drawable_23_2_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/portfolio/course/esguti/builditbigger/ApplicationTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/vtd_xml_2_11.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/portfolio/course/esguti/builditbigger/MainActivityFragment.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/cache.properties.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/outputFileStates.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/taskArtifacts.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/AndroidLib/AndroidLib.iml" afterPath="$PROJECT_DIR$/libs/AndroidLib/AndroidLib.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/portfolio/course/esguti/builditbigger/EndpointsAsyncTask.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/portfolio/course/esguti/builditbigger/EndpointsAsyncTask.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/JavaLib/src/main/java/com/portfolio/course/esguti/JavaLib/Joker.java" afterPath="$PROJECT_DIR$/libs/JavaLib/src/main/java/com/portfolio/course/esguti/JavaLib/Joker.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/portfolio/course/esguti/builditbigger/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/portfolio/course/esguti/builditbigger/MainActivity.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/libs/Backend/src/main/webapp/index.html" afterPath="$PROJECT_DIR$/libs/Backend/src/main/webapp/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="BuiltItBigger.iws" />
@@ -105,20 +120,7 @@
     <favorites_list name="BuiltItBigger" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="testAsyncTask.java" pinned="false" current-in-tab="true">
-        <entry file="file:///media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/src/test/java/com/portfolio/course/esguti/builditbigger/testAsyncTask.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6005089">
-              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -989,62 +991,636 @@
                 <option name="name" value="war" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Assembles all Free builds." />
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
-                <option name="name" value="collectDebugMultiDexComponents" />
+                <option name="name" value="assembleFree" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the DebugFree build." />
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="assembleFreeDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the android (on device) tests for the FreeDebug build." />
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="assembleFreeDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the unit tests for the FreeDebug build." />
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="assembleFreeDebugUnitTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the ReleaseFree build." />
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="assembleFreeRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the unit tests for the FreeRelease build." />
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="assembleFreeReleaseUnitTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles all Paid builds." />
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="assemblePaid" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the DebugPaid build." />
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="assemblePaidDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the android (on device) tests for the PaidDebug build." />
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="assemblePaidDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the unit tests for the PaidDebug build." />
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="assemblePaidDebugUnitTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the ReleasePaid build." />
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="assemblePaidRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the unit tests for the PaidRelease build." />
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="assemblePaidReleaseUnitTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
-                <option name="name" value="collectReleaseMultiDexComponents" />
+                <option name="name" value="checkFreeDebugManifest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
-                <option name="name" value="createDebugMainDexClassList" />
+                <option name="name" value="checkFreeReleaseManifest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
-                <option name="name" value="createReleaseMainDexClassList" />
+                <option name="name" value="checkPaidDebugManifest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
-                <option name="name" value="dexDebug" />
+                <option name="name" value="checkPaidReleaseManifest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
-                <option name="name" value="dexRelease" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Installs the Debug build." />
-                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
-                <option name="name" value="installDebug" />
+                <option name="name" value="collectFreeDebugMultiDexComponents" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
-                <option name="name" value="jarDebugClasses" />
+                <option name="name" value="collectFreeReleaseMultiDexComponents" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
-                <option name="name" value="jarReleaseClasses" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Runs lint on just the fatal issues in the Release build." />
-                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
-                <option name="name" value="lintVitalRelease" />
+                <option name="name" value="collectPaidDebugMultiDexComponents" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
-                <option name="name" value="packageAllDebugClassesForMultiDex" />
+                <option name="name" value="collectPaidReleaseMultiDexComponents" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
-                <option name="name" value="packageAllReleaseClassesForMultiDex" />
+                <option name="name" value="compileFreeDebugAidl" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
-                <option name="name" value="packageDebug" />
+                <option name="name" value="compileFreeDebugAndroidTestAidl" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
-                <option name="name" value="packageRelease" />
+                <option name="name" value="compileFreeDebugAndroidTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="compileFreeDebugAndroidTestNdk" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="compileFreeDebugAndroidTestRenderscript" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="compileFreeDebugAndroidTestSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="compileFreeDebugJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="compileFreeDebugNdk" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="compileFreeDebugRenderscript" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="compileFreeDebugSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="compileFreeDebugUnitTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="compileFreeDebugUnitTestSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="compileFreeReleaseAidl" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="compileFreeReleaseJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="compileFreeReleaseNdk" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="compileFreeReleaseRenderscript" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="compileFreeReleaseSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="compileFreeReleaseUnitTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="compileFreeReleaseUnitTestSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="compilePaidDebugAidl" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="compilePaidDebugAndroidTestAidl" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="compilePaidDebugAndroidTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="compilePaidDebugAndroidTestNdk" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="compilePaidDebugAndroidTestRenderscript" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="compilePaidDebugAndroidTestSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="compilePaidDebugJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="compilePaidDebugNdk" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="compilePaidDebugRenderscript" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="compilePaidDebugSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="compilePaidDebugUnitTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="compilePaidDebugUnitTestSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="compilePaidReleaseAidl" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="compilePaidReleaseJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="compilePaidReleaseNdk" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="compilePaidReleaseRenderscript" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="compilePaidReleaseSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="compilePaidReleaseUnitTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="compilePaidReleaseUnitTestSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs and runs the tests for DebugFree build on connected devices." />
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="connectedAndroidTestFreeDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs and runs the tests for DebugPaid build on connected devices." />
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="connectedAndroidTestPaidDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="createFreeDebugMainDexClassList" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="createFreeReleaseMainDexClassList" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="createPaidDebugMainDexClassList" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="createPaidReleaseMainDexClassList" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="dexFreeDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="dexFreeDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="dexFreeRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="dexPaidDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="dexPaidDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="dexPaidRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="generateFreeDebugAndroidTestAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="generateFreeDebugAndroidTestBuildConfig" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="generateFreeDebugAndroidTestResValues" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="generateFreeDebugAndroidTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="generateFreeDebugAndroidTestSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="generateFreeDebugAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="generateFreeDebugBuildConfig" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="generateFreeDebugResValues" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="generateFreeDebugResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="generateFreeDebugSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="generateFreeReleaseAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="generateFreeReleaseBuildConfig" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="generateFreeReleaseResValues" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="generateFreeReleaseResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="generateFreeReleaseSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="generatePaidDebugAndroidTestAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="generatePaidDebugAndroidTestBuildConfig" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="generatePaidDebugAndroidTestResValues" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="generatePaidDebugAndroidTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="generatePaidDebugAndroidTestSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="generatePaidDebugAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="generatePaidDebugBuildConfig" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="generatePaidDebugResValues" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="generatePaidDebugResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="generatePaidDebugSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="generatePaidReleaseAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="generatePaidReleaseBuildConfig" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="generatePaidReleaseResValues" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="generatePaidReleaseResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="generatePaidReleaseSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs the DebugFree build." />
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="installFreeDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs the android (on device) tests for the FreeDebug build." />
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="installFreeDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs the DebugPaid build." />
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="installPaidDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs the android (on device) tests for the PaidDebug build." />
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="installPaidDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="jarFreeDebugClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="jarFreeReleaseClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="jarPaidDebugClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="jarPaidReleaseClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs lint on the FreeDebug build." />
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="lintFreeDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs lint on the FreeRelease build." />
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="lintFreeRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs lint on the PaidDebug build." />
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="lintPaidDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs lint on the PaidRelease build." />
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="lintPaidRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs lint on just the fatal issues in the FreeRelease build." />
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="lintVitalFreeRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs lint on just the fatal issues in the PaidRelease build." />
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="lintVitalPaidRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="mergeFreeDebugAndroidTestAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="mergeFreeDebugAndroidTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="mergeFreeDebugAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="mergeFreeDebugResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="mergeFreeReleaseAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="mergeFreeReleaseResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="mergePaidDebugAndroidTestAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="mergePaidDebugAndroidTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="mergePaidDebugAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="mergePaidDebugResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="mergePaidReleaseAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="mergePaidReleaseResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="packageAllFreeDebugClassesForMultiDex" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="packageAllFreeReleaseClassesForMultiDex" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="packageAllPaidDebugClassesForMultiDex" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="packageAllPaidReleaseClassesForMultiDex" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="packageFreeDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="packageFreeDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="packageFreeRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="packagePaidDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="packagePaidDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="packagePaidRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="preCompileFreeDebugUnitTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="preCompileFreeReleaseUnitTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="preCompilePaidDebugUnitTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="preCompilePaidReleaseUnitTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="preDexFreeDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="preDexPaidDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="preFreeDebugAndroidTestBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="preFreeDebugBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="preFreeDebugUnitTestBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="preFreeReleaseBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="preFreeReleaseUnitTestBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="prePaidDebugAndroidTestBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="prePaidDebugBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="prePaidDebugUnitTestBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="prePaidReleaseBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="prePaidReleaseUnitTestBuild" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Prepare BuiltItBigger:AndroidLib:unspecified" />
@@ -1208,25 +1784,205 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
-                <option name="name" value="shrinkDebugMultiDexComponents" />
+                <option name="name" value="prepareFreeDebugAndroidTestDependencies" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
-                <option name="name" value="shrinkReleaseMultiDexComponents" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Uninstalls the Debug build." />
-                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
-                <option name="name" value="uninstallDebug" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Uninstalls the Release build." />
-                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
-                <option name="name" value="uninstallRelease" />
+                <option name="name" value="prepareFreeDebugDependencies" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
-                <option name="name" value="zipalignDebug" />
+                <option name="name" value="prepareFreeDebugUnitTestDependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="prepareFreeReleaseDependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="prepareFreeReleaseUnitTestDependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="preparePaidDebugAndroidTestDependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="preparePaidDebugDependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="preparePaidDebugUnitTestDependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="preparePaidReleaseDependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="preparePaidReleaseUnitTestDependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="processFreeDebugAndroidTestJavaRes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="processFreeDebugAndroidTestManifest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="processFreeDebugAndroidTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="processFreeDebugJavaRes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="processFreeDebugManifest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="processFreeDebugResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="processFreeDebugUnitTestJavaRes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="processFreeReleaseJavaRes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="processFreeReleaseManifest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="processFreeReleaseResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="processFreeReleaseUnitTestJavaRes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="processPaidDebugAndroidTestJavaRes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="processPaidDebugAndroidTestManifest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="processPaidDebugAndroidTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="processPaidDebugJavaRes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="processPaidDebugManifest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="processPaidDebugResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="processPaidDebugUnitTestJavaRes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="processPaidReleaseJavaRes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="processPaidReleaseManifest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="processPaidReleaseResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="processPaidReleaseUnitTestJavaRes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="shrinkFreeDebugMultiDexComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="shrinkFreeReleaseMultiDexComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="shrinkPaidDebugMultiDexComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="shrinkPaidReleaseMultiDexComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Run unit tests for the freeDebug build." />
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="testFreeDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Run unit tests for the freeRelease build." />
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="testFreeRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Run unit tests for the paidDebug build." />
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="testPaidDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Run unit tests for the paidRelease build." />
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="testPaidRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Uninstalls the DebugFree build." />
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="uninstallFreeDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Uninstalls the android (on device) tests for the FreeDebug build." />
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="uninstallFreeDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Uninstalls the ReleaseFree build." />
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="uninstallFreeRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Uninstalls the DebugPaid build." />
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="uninstallPaidDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Uninstalls the android (on device) tests for the PaidDebug build." />
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="uninstallPaidDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Uninstalls the ReleasePaid build." />
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="uninstallPaidRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="zipalignFreeDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger" />
+                <option name="name" value="zipalignPaidDebug" />
               </ExternalTaskPojo>
             </list>
           </value>
@@ -1255,24 +2011,69 @@
                 <option name="name" value="assembleDebug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles the android (on device) tests for the Debug build." />
+                <option name="description" value="Assembles all Free builds." />
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="assembleDebugAndroidTest" />
+                <option name="name" value="assembleFree" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles the unit tests for the Debug build." />
+                <option name="description" value="Assembles the DebugFree build." />
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="assembleDebugUnitTest" />
+                <option name="name" value="assembleFreeDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the android (on device) tests for the FreeDebug build." />
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="assembleFreeDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the unit tests for the FreeDebug build." />
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="assembleFreeDebugUnitTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the ReleaseFree build." />
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="assembleFreeRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the unit tests for the FreeRelease build." />
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="assembleFreeReleaseUnitTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles all Paid builds." />
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="assemblePaid" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the DebugPaid build." />
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="assemblePaidDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the android (on device) tests for the PaidDebug build." />
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="assemblePaidDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the unit tests for the PaidDebug build." />
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="assemblePaidDebugUnitTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the ReleasePaid build." />
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="assemblePaidRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the unit tests for the PaidRelease build." />
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="assemblePaidReleaseUnitTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles all Release builds." />
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
                 <option name="name" value="assembleRelease" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Assembles the unit tests for the Release build." />
-                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="assembleReleaseUnitTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles and tests this project." />
@@ -1296,11 +2097,19 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="checkDebugManifest" />
+                <option name="name" value="checkFreeDebugManifest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="checkReleaseManifest" />
+                <option name="name" value="checkFreeReleaseManifest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="checkPaidDebugManifest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="checkPaidReleaseManifest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Deletes the build directory." />
@@ -1309,59 +2118,95 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="collectDebugMultiDexComponents" />
+                <option name="name" value="collectFreeDebugMultiDexComponents" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="collectReleaseMultiDexComponents" />
+                <option name="name" value="collectFreeReleaseMultiDexComponents" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="compileDebugAidl" />
+                <option name="name" value="collectPaidDebugMultiDexComponents" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="compileDebugAndroidTestAidl" />
+                <option name="name" value="collectPaidReleaseMultiDexComponents" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="compileDebugAndroidTestJava" />
+                <option name="name" value="compileFreeDebugAidl" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="compileDebugAndroidTestNdk" />
+                <option name="name" value="compileFreeDebugAndroidTestAidl" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="compileDebugAndroidTestRenderscript" />
+                <option name="name" value="compileFreeDebugAndroidTestJava" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="compileDebugAndroidTestSources" />
+                <option name="name" value="compileFreeDebugAndroidTestNdk" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="compileDebugJava" />
+                <option name="name" value="compileFreeDebugAndroidTestRenderscript" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="compileDebugNdk" />
+                <option name="name" value="compileFreeDebugAndroidTestSources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="compileDebugRenderscript" />
+                <option name="name" value="compileFreeDebugJava" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="compileDebugSources" />
+                <option name="name" value="compileFreeDebugNdk" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="compileDebugUnitTestJava" />
+                <option name="name" value="compileFreeDebugRenderscript" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="compileDebugUnitTestSources" />
+                <option name="name" value="compileFreeDebugSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="compileFreeDebugUnitTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="compileFreeDebugUnitTestSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="compileFreeReleaseAidl" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="compileFreeReleaseJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="compileFreeReleaseNdk" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="compileFreeReleaseRenderscript" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="compileFreeReleaseSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="compileFreeReleaseUnitTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="compileFreeReleaseUnitTestSources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
@@ -1369,31 +2214,79 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="compileReleaseAidl" />
+                <option name="name" value="compilePaidDebugAidl" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="compileReleaseJava" />
+                <option name="name" value="compilePaidDebugAndroidTestAidl" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="compileReleaseNdk" />
+                <option name="name" value="compilePaidDebugAndroidTestJava" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="compileReleaseRenderscript" />
+                <option name="name" value="compilePaidDebugAndroidTestNdk" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="compileReleaseSources" />
+                <option name="name" value="compilePaidDebugAndroidTestRenderscript" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="compileReleaseUnitTestJava" />
+                <option name="name" value="compilePaidDebugAndroidTestSources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="compileReleaseUnitTestSources" />
+                <option name="name" value="compilePaidDebugJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="compilePaidDebugNdk" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="compilePaidDebugRenderscript" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="compilePaidDebugSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="compilePaidDebugUnitTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="compilePaidDebugUnitTestSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="compilePaidReleaseAidl" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="compilePaidReleaseJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="compilePaidReleaseNdk" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="compilePaidReleaseRenderscript" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="compilePaidReleaseSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="compilePaidReleaseUnitTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="compilePaidReleaseUnitTestSources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays the components produced by project ':app'. [incubating]" />
@@ -1406,9 +2299,14 @@
                 <option name="name" value="connectedAndroidTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Installs and runs the tests for Debug build on connected devices." />
+                <option name="description" value="Installs and runs the tests for DebugFree build on connected devices." />
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="connectedAndroidTestDebug" />
+                <option name="name" value="connectedAndroidTestFreeDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs and runs the tests for DebugPaid build on connected devices." />
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="connectedAndroidTestPaidDebug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Runs all device checks on currently connected devices." />
@@ -1417,11 +2315,19 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="createDebugMainDexClassList" />
+                <option name="name" value="createFreeDebugMainDexClassList" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="createReleaseMainDexClassList" />
+                <option name="name" value="createFreeReleaseMainDexClassList" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="createPaidDebugMainDexClassList" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="createPaidReleaseMainDexClassList" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays all dependencies declared in project ':app'." />
@@ -1445,75 +2351,147 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="dexDebug" />
+                <option name="name" value="dexFreeDebug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="dexDebugAndroidTest" />
+                <option name="name" value="dexFreeDebugAndroidTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="dexRelease" />
+                <option name="name" value="dexFreeRelease" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="generateDebugAndroidTestAssets" />
+                <option name="name" value="dexPaidDebug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="generateDebugAndroidTestBuildConfig" />
+                <option name="name" value="dexPaidDebugAndroidTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="generateDebugAndroidTestResValues" />
+                <option name="name" value="dexPaidRelease" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="generateDebugAndroidTestResources" />
+                <option name="name" value="generateFreeDebugAndroidTestAssets" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="generateDebugAndroidTestSources" />
+                <option name="name" value="generateFreeDebugAndroidTestBuildConfig" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="generateDebugAssets" />
+                <option name="name" value="generateFreeDebugAndroidTestResValues" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="generateDebugBuildConfig" />
+                <option name="name" value="generateFreeDebugAndroidTestResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="generateDebugResValues" />
+                <option name="name" value="generateFreeDebugAndroidTestSources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="generateDebugResources" />
+                <option name="name" value="generateFreeDebugAssets" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="generateDebugSources" />
+                <option name="name" value="generateFreeDebugBuildConfig" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="generateReleaseAssets" />
+                <option name="name" value="generateFreeDebugResValues" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="generateReleaseBuildConfig" />
+                <option name="name" value="generateFreeDebugResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="generateReleaseResValues" />
+                <option name="name" value="generateFreeDebugSources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="generateReleaseResources" />
+                <option name="name" value="generateFreeReleaseAssets" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="generateReleaseSources" />
+                <option name="name" value="generateFreeReleaseBuildConfig" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="generateFreeReleaseResValues" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="generateFreeReleaseResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="generateFreeReleaseSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="generatePaidDebugAndroidTestAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="generatePaidDebugAndroidTestBuildConfig" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="generatePaidDebugAndroidTestResValues" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="generatePaidDebugAndroidTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="generatePaidDebugAndroidTestSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="generatePaidDebugAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="generatePaidDebugBuildConfig" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="generatePaidDebugResValues" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="generatePaidDebugResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="generatePaidDebugSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="generatePaidReleaseAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="generatePaidReleaseBuildConfig" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="generatePaidReleaseResValues" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="generatePaidReleaseResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="generatePaidReleaseSources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays a help message." />
@@ -1521,22 +2499,40 @@
                 <option name="name" value="help" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Installs the Debug build." />
+                <option name="description" value="Installs the DebugFree build." />
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="installDebug" />
+                <option name="name" value="installFreeDebug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Installs the android (on device) tests for the Debug build." />
+                <option name="description" value="Installs the android (on device) tests for the FreeDebug build." />
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="installDebugAndroidTest" />
+                <option name="name" value="installFreeDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs the DebugPaid build." />
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="installPaidDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs the android (on device) tests for the PaidDebug build." />
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="installPaidDebugAndroidTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="jarDebugClasses" />
+                <option name="name" value="jarFreeDebugClasses" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="jarReleaseClasses" />
+                <option name="name" value="jarFreeReleaseClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="jarPaidDebugClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="jarPaidReleaseClasses" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Runs lint on all variants." />
@@ -1544,43 +2540,82 @@
                 <option name="name" value="lint" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Runs lint on the Debug build." />
+                <option name="description" value="Runs lint on the FreeDebug build." />
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="lintDebug" />
+                <option name="name" value="lintFreeDebug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Runs lint on the Release build." />
+                <option name="description" value="Runs lint on the FreeRelease build." />
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="lintRelease" />
+                <option name="name" value="lintFreeRelease" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Runs lint on just the fatal issues in the Release build." />
+                <option name="description" value="Runs lint on the PaidDebug build." />
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="lintVitalRelease" />
+                <option name="name" value="lintPaidDebug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Runs lint on the PaidRelease build." />
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="mergeDebugAndroidTestAssets" />
+                <option name="name" value="lintPaidRelease" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Runs lint on just the fatal issues in the FreeRelease build." />
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="mergeDebugAndroidTestResources" />
+                <option name="name" value="lintVitalFreeRelease" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Runs lint on just the fatal issues in the PaidRelease build." />
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="mergeDebugAssets" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="mergeDebugResources" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="mergeReleaseAssets" />
+                <option name="name" value="lintVitalPaidRelease" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="mergeReleaseResources" />
+                <option name="name" value="mergeFreeDebugAndroidTestAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="mergeFreeDebugAndroidTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="mergeFreeDebugAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="mergeFreeDebugResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="mergeFreeReleaseAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="mergeFreeReleaseResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="mergePaidDebugAndroidTestAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="mergePaidDebugAndroidTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="mergePaidDebugAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="mergePaidDebugResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="mergePaidReleaseAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="mergePaidReleaseResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Creates a version of android.jar that's suitable for unit tests." />
@@ -1594,23 +2629,43 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="packageAllDebugClassesForMultiDex" />
+                <option name="name" value="packageAllFreeDebugClassesForMultiDex" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="packageAllReleaseClassesForMultiDex" />
+                <option name="name" value="packageAllFreeReleaseClassesForMultiDex" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="packageDebug" />
+                <option name="name" value="packageAllPaidDebugClassesForMultiDex" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="packageDebugAndroidTest" />
+                <option name="name" value="packageAllPaidReleaseClassesForMultiDex" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="packageRelease" />
+                <option name="name" value="packageFreeDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="packageFreeDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="packageFreeRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="packagePaidDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="packagePaidDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="packagePaidRelease" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
@@ -1618,35 +2673,67 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="preCompileDebugUnitTestJava" />
+                <option name="name" value="preCompileFreeDebugUnitTestJava" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="preCompileReleaseUnitTestJava" />
+                <option name="name" value="preCompileFreeReleaseUnitTestJava" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="preDebugAndroidTestBuild" />
+                <option name="name" value="preCompilePaidDebugUnitTestJava" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="preDebugBuild" />
+                <option name="name" value="preCompilePaidReleaseUnitTestJava" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="preDebugUnitTestBuild" />
+                <option name="name" value="preDexFreeDebugAndroidTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="preDexDebugAndroidTest" />
+                <option name="name" value="preDexPaidDebugAndroidTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="preReleaseBuild" />
+                <option name="name" value="preFreeDebugAndroidTestBuild" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="preReleaseUnitTestBuild" />
+                <option name="name" value="preFreeDebugBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="preFreeDebugUnitTestBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="preFreeReleaseBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="preFreeReleaseUnitTestBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="prePaidDebugAndroidTestBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="prePaidDebugBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="prePaidDebugUnitTestBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="prePaidReleaseBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="prePaidReleaseUnitTestBuild" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Prepare BuiltItBigger:AndroidLib:unspecified" />
@@ -1810,67 +2897,131 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="prepareDebugAndroidTestDependencies" />
+                <option name="name" value="prepareFreeDebugAndroidTestDependencies" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="prepareDebugDependencies" />
+                <option name="name" value="prepareFreeDebugDependencies" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="prepareDebugUnitTestDependencies" />
+                <option name="name" value="prepareFreeDebugUnitTestDependencies" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="prepareReleaseDependencies" />
+                <option name="name" value="prepareFreeReleaseDependencies" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="prepareReleaseUnitTestDependencies" />
+                <option name="name" value="prepareFreeReleaseUnitTestDependencies" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="processDebugAndroidTestJavaRes" />
+                <option name="name" value="preparePaidDebugAndroidTestDependencies" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="processDebugAndroidTestManifest" />
+                <option name="name" value="preparePaidDebugDependencies" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="processDebugAndroidTestResources" />
+                <option name="name" value="preparePaidDebugUnitTestDependencies" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="processDebugJavaRes" />
+                <option name="name" value="preparePaidReleaseDependencies" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="processDebugManifest" />
+                <option name="name" value="preparePaidReleaseUnitTestDependencies" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="processDebugResources" />
+                <option name="name" value="processFreeDebugAndroidTestJavaRes" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="processDebugUnitTestJavaRes" />
+                <option name="name" value="processFreeDebugAndroidTestManifest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="processReleaseJavaRes" />
+                <option name="name" value="processFreeDebugAndroidTestResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="processReleaseManifest" />
+                <option name="name" value="processFreeDebugJavaRes" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="processReleaseResources" />
+                <option name="name" value="processFreeDebugManifest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="processReleaseUnitTestJavaRes" />
+                <option name="name" value="processFreeDebugResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="processFreeDebugUnitTestJavaRes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="processFreeReleaseJavaRes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="processFreeReleaseManifest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="processFreeReleaseResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="processFreeReleaseUnitTestJavaRes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="processPaidDebugAndroidTestJavaRes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="processPaidDebugAndroidTestManifest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="processPaidDebugAndroidTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="processPaidDebugJavaRes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="processPaidDebugManifest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="processPaidDebugResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="processPaidDebugUnitTestJavaRes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="processPaidReleaseJavaRes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="processPaidReleaseManifest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="processPaidReleaseResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="processPaidReleaseUnitTestJavaRes" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays the sub-projects of project ':app'." />
@@ -1884,11 +3035,19 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="shrinkDebugMultiDexComponents" />
+                <option name="name" value="shrinkFreeDebugMultiDexComponents" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="shrinkReleaseMultiDexComponents" />
+                <option name="name" value="shrinkFreeReleaseMultiDexComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="shrinkPaidDebugMultiDexComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="shrinkPaidReleaseMultiDexComponents" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays the signing info for each variant." />
@@ -1906,14 +3065,24 @@
                 <option name="name" value="test" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Run unit tests for the debug build." />
+                <option name="description" value="Run unit tests for the freeDebug build." />
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="testDebug" />
+                <option name="name" value="testFreeDebug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Run unit tests for the release build." />
+                <option name="description" value="Run unit tests for the freeRelease build." />
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="testRelease" />
+                <option name="name" value="testFreeRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Run unit tests for the paidDebug build." />
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="testPaidDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Run unit tests for the paidRelease build." />
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="testPaidRelease" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Uninstall all applications." />
@@ -1921,19 +3090,34 @@
                 <option name="name" value="uninstallAll" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Uninstalls the Debug build." />
+                <option name="description" value="Uninstalls the DebugFree build." />
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="uninstallDebug" />
+                <option name="name" value="uninstallFreeDebug" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Uninstalls the android (on device) tests for the Debug build." />
+                <option name="description" value="Uninstalls the android (on device) tests for the FreeDebug build." />
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="uninstallDebugAndroidTest" />
+                <option name="name" value="uninstallFreeDebugAndroidTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Uninstalls the Release build." />
+                <option name="description" value="Uninstalls the ReleaseFree build." />
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="uninstallRelease" />
+                <option name="name" value="uninstallFreeRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Uninstalls the DebugPaid build." />
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="uninstallPaidDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Uninstalls the android (on device) tests for the PaidDebug build." />
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="uninstallPaidDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Uninstalls the ReleasePaid build." />
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="uninstallPaidRelease" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
@@ -1941,7 +3125,11 @@
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
-                <option name="name" value="zipalignDebug" />
+                <option name="name" value="zipalignFreeDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app" />
+                <option name="name" value="zipalignPaidDebug" />
               </ExternalTaskPojo>
             </list>
           </value>
@@ -2962,7 +4150,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="8743905179637" />
+        <entry key="$PROJECT_DIR$" value="8743912832890" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -3222,10 +4410,10 @@
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/external/lombok/lombok-ast/0.2.3/lombok-ast-0.2.3.jar" />
                             <option value="$USER_HOME$/Dev/Programs/android-sdk-linux/extras/android/m2repository/com/android/support/appcompat-v7/23.2.0/appcompat-v7-23.2.0.aar" />
                             <option value="$USER_HOME$/Dev/Programs/android-sdk-linux/extras/google/m2repository/com/google/android/gms/play-services/8.4.0/play-services-8.4.0.aar" />
-                            <option value="$USER_HOME$/Dev/Programs/android-sdk-linux/extras/google/m2repository/com/google/android/gms/play-services-ads/8.4.0/play-services-ads-8.4.0.aar" />
                             <option value="$USER_HOME$/Dev/Programs/android-sdk-linux/extras/google/m2repository/com/google/android/gms/play-services-identity/8.4.0/play-services-identity-8.4.0.aar" />
                             <option value="$USER_HOME$/Dev/Programs/android-sdk-linux/extras/google/m2repository/com/google/android/gms/play-services-gcm/8.4.0/play-services-gcm-8.4.0.aar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.18/b631d286463ced7cc42ee2171fe3beaed2836823/slf4j-api-1.7.18.jar" />
+                            <option value="$USER_HOME$/Dev/Programs/android-sdk-linux/extras/google/m2repository/com/google/android/gms/play-services-ads/8.4.0/play-services-ads-8.4.0.aar" />
                             <option value="$USER_HOME$/Dev/Programs/android-sdk-linux/extras/google/m2repository/com/google/android/gms/play-services-analytics/8.4.0/play-services-analytics-8.4.0.aar" />
                             <option value="$USER_HOME$/Dev/Programs/android-sdk-linux/extras/google/m2repository/com/google/android/gms/play-services-appindexing/8.4.0/play-services-appindexing-8.4.0.aar" />
                             <option value="$USER_HOME$/Dev/Programs/android-sdk-linux/extras/google/m2repository/com/google/android/gms/play-services-appinvite/8.4.0/play-services-appinvite-8.4.0.aar" />
@@ -3427,10 +4615,10 @@
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/external/lombok/lombok-ast/0.2.3/lombok-ast-0.2.3-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/external/lombok/lombok-ast/0.2.3/lombok-ast-0.2.3.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.appengine/appengine-endpoints/1.9.18/7fb7b64f5e6ef9c79d34229fc42b2bebc94a73b6/appengine-endpoints-1.9.18.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.appengine/appengine-endpoints-deps/1.9.18/c870c4c9d89cb76edf38c440ec30145d4df33435/appengine-endpoints-deps-1.9.18.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.servlet/servlet-api/2.5/21599814ad9a605b86f3e6381571beccd861a32/servlet-api-2.5-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.servlet/servlet-api/2.5/5959582d97d8b61f4d154ca9e495aafd16726e34/servlet-api-2.5.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.appengine/appengine-api-1.0-sdk/1.9.18/831d0186441861511cb2d5d3ed5983f352c2d6f1/appengine-api-1.0-sdk-1.9.18.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.appengine/appengine-endpoints-deps/1.9.18/c870c4c9d89cb76edf38c440ec30145d4df33435/appengine-endpoints-deps-1.9.18.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.appengine/gradle-appengine-plugin/1.9.18/124dab944aa0d21b69ba728df2a7a3367729282b/gradle-appengine-plugin-1.9.18-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.appengine/gradle-appengine-plugin/1.9.18/e68431da3f9d1b720877826fe418f19ddee633d0/gradle-appengine-plugin-1.9.18.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.appengine/gradle-appengine-builder-model/0.1.0/d66a188f481ab63e2c2ef29449804cbbcb511268/gradle-appengine-builder-model-0.1.0-sources.jar" />
@@ -3682,13 +4870,15 @@
         <option value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/libs/Backend/src/main/java/com/portfolio/course/esguti/backend/MyEndpoint.java" />
         <option value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/src/androidTest/java/com/portfolio/course/esguti/builditbigger/ApplicationTest.java" />
         <option value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/src/androidTest/java/com/portfolio/course/esguti/builditbigger/EndpointsAsyncTaskTest.java" />
-        <option value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/build.gradle" />
         <option value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/libs/Backend/src/main/webapp/index.html" />
         <option value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/src/test/java/com/portfolio/course/esguti/builditbigger/testAsincTask.java" />
         <option value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/src/main/java/com/portfolio/course/esguti/builditbigger/EndpointsAsyncTask.java" />
         <option value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/src/main/java/com/portfolio/course/esguti/builditbigger/MainActivity.java" />
         <option value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/src/test/java/com/portfolio/course/esguti/builditbigger/testAsyncTask.java" />
         <option value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/libs/JavaLib/src/main/java/com/portfolio/course/esguti/JavaLib/Joker.java" />
+        <option value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/build.gradle" />
+        <option value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/src/main/java/com/portfolio/course/esguti/builditbigger/MainActivityFragment.java" />
+        <option value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/src/paid/com/portfolio/course/esguti/builditbigger/MainActivityFragment.java" />
       </list>
     </option>
   </component>
@@ -3730,6 +4920,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -3931,18 +5123,6 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="builditbigger" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -3962,14 +5142,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
+              <option name="myItemId" value="free" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="builditbigger" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
       <pane id="AndroidView">
         <subPane>
@@ -3977,10 +5163,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="BuiltItBigger" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Gradle Scripts" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidBuildScriptsGroupNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -3998,6 +5180,50 @@
               <option name="myItemId" value="BuiltItBigger" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="builditbigger" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BuiltItBigger" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="builditbigger" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BuiltItBigger" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="manifests" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidManifestsGroupNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -4005,7 +5231,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="recentsLimit" value="5" />
-    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="emulator-5554" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="Nexus_5_API_23_x86" />
     <property name="dynamic.classpath" value="false" />
     <property name="last_opened_file_path" value="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/examples/Gradle/4.09-Demo-AndroidUnitTesting" />
@@ -4021,17 +5247,19 @@
     <property name="android.project.structure.proportion" value="0.15" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="junit.framework.TestCase" />
-    </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="com.portfolio.course.esguti.builditbigger" />
     </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="junit.framework.TestCase" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/src/free/java/com/portfolio/course/esguti/builditbigger" />
+      <recent name="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/src/free/java" />
       <recent name="/media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/libs" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Android Application.app">
     <configuration default="false" name="testAsyncTask" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -4288,23 +5516,23 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.4969697" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.46363637" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.45606062" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3993559" sideWeight="0.4969697" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3188406" sideWeight="0.53333336" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3188406" sideWeight="0.54242426" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.53333336" order="9" side_tool="true" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.50827426" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.4208038" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.45454547" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.4969697" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.49172577" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3188406" sideWeight="0.46666667" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5791962" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3188406" sideWeight="0.45757577" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -4338,6 +5566,16 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file:///media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/src/test/java/com/portfolio/course/esguti/builditbigger/testAsyncTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file:///media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/src/test/java/com/portfolio/course/esguti/builditbigger/testAsyncTask.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -4465,23 +5703,23 @@
       </provider>
     </entry>
     <entry file="file:///media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/libs/AndroidLib/src/main/res/layout/activity_joke.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.1264045">
           <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
         </state>
       </provider>
-    </entry>
-    <entry file="file:///media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/libs/AndroidLib/src/main/res/layout/fragment_joke.xml">
       <provider editor-type-id="android-designer">
         <state />
       </provider>
+    </entry>
+    <entry file="file:///media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/libs/AndroidLib/src/main/res/layout/fragment_joke.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
     <entry file="file:///media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/settings.gradle">
@@ -4492,25 +5730,25 @@
       </provider>
     </entry>
     <entry file="file:///media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/src/main/res/layout/fragment_main.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.505618">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file:///media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/src/main/res/layout/activity_main.xml">
       <provider editor-type-id="android-designer">
         <state />
       </provider>
+    </entry>
+    <entry file="file:///media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/src/main/res/layout/activity_main.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
     <entry file="file:///media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/libs/AndroidLib/src/main/java/com/portfolio/course/esguti/androidlib/JokerActivity.java">
@@ -4544,13 +5782,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/src/main/java/com/portfolio/course/esguti/builditbigger/MainActivityFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.07235142">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/libs/JavaLib/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6511628">
@@ -4579,26 +5810,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23255815">
-          <caret line="6" column="64" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="64" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/libs/Backend/src/main/webapp/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.17355372">
           <caret line="71" column="24" selection-start-line="71" selection-start-column="24" selection-end-line="71" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22900763">
-          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
           <folding />
         </state>
       </provider>
@@ -4616,8 +5831,8 @@
         <state vertical-scroll-proportion="0.99236643">
           <caret line="35" column="45" selection-start-line="35" selection-start-column="45" selection-end-line="35" selection-end-column="45" />
           <folding>
-            <element signature="e#575#576#0" expanded="true" />
-            <element signature="e#612#613#0" expanded="true" />
+            <element signature="e#575#576#0" expanded="false" />
+            <element signature="e#612#613#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -4632,23 +5847,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/src/main/java/com/portfolio/course/esguti/builditbigger/MainActivity.java">
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46564886">
-          <caret line="43" column="51" selection-start-line="43" selection-start-column="51" selection-end-line="43" selection-end-column="51" />
+        <state vertical-scroll-proportion="0.16014235">
+          <caret line="6" column="64" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/src/test/java/com/portfolio/course/esguti/builditbigger/testAsyncTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="57" selection-start-line="22" selection-start-column="57" selection-end-line="22" selection-end-column="57" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file:///media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/src/test/java/com/portfolio/course/esguti/builditbigger/testAsyncTask.java">
+    <entry file="file:///media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/src/free/java/com/portfolio/course/esguti/builditbigger/MainActivityFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6005089">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.31007752">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/src/main/java/com/portfolio/course/esguti/builditbigger/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.81395346">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="24" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/src/paid/java/com/portfolio/course/esguti/builditbigger/MainActivityFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.41984734">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.1007752">
+          <caret line="37" column="39" selection-start-line="37" selection-start-column="39" selection-end-line="37" selection-end-column="39" />
+          <folding />
         </state>
       </provider>
     </entry>
