@@ -13,13 +13,17 @@ public class EndpointsAsyncTask extends AsyncTask<Void, Void, String> {
 
     public interface EnpointResponse { void showJoke(String joke); }
 
-    public EnpointResponse m_delegate = null;
+    private EnpointResponse m_delegate = null;
+    private String m_root_url = "";
 
-    public EndpointsAsyncTask( EnpointResponse delegate ){ m_delegate = delegate; }
+    public EndpointsAsyncTask( EnpointResponse delegate, String root_url ){
+        m_delegate = delegate;
+        m_root_url = root_url;
+    }
 
     @Override
     protected String doInBackground(Void... params) {
-        Joker joker_class = new Joker();
+        Joker joker_class = new Joker(m_root_url);
         return joker_class.tellJoke();
     }
 

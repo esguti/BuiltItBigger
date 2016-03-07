@@ -41,7 +41,8 @@ public class MainActivity extends ActionBarActivity implements EndpointsAsyncTas
     }
 
     public void tellJoke(View view){
-        EndpointsAsyncTask endp = new EndpointsAsyncTask(this);
+        String root_url = getString(R.string.root_url);
+        EndpointsAsyncTask endp = new EndpointsAsyncTask(this, root_url);
         endp.execute();
     }
 
