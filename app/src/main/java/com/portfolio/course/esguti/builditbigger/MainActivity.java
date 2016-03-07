@@ -6,12 +6,10 @@ import android.support.v7.app.ActionBarActivity;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
-import android.widget.Toast;
 
-import com.portfolio.course.esguti.JavaLib.Joker;
 import com.portfolio.course.esguti.androidlib.JokerActivity;
 
-public class MainActivity extends ActionBarActivity {
+public class MainActivity extends ActionBarActivity implements EndpointsAsyncTask.EnpointResponse {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -43,13 +41,14 @@ public class MainActivity extends ActionBarActivity {
     }
 
     public void tellJoke(View view){
-        Joker joker_class = new Joker();
-        String joke = joker_class.tellJoke();
+        EndpointsAsyncTask endp = new EndpointsAsyncTask(this);
+        endp.execute();
+    }
 
+    public void showJoke(String joke){
         Intent myIntent = new Intent(this, JokerActivity.class);
         myIntent.putExtra(JokerActivity.JOKE_KEY, joke);
         startActivity(myIntent);
     }
-
 
 }

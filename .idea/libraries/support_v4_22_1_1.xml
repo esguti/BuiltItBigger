@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="support-v4-22.1.1">
     <CLASSES>
-      <root url="jar:///media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar!/" />
-      <root url="jar:///media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar!/" />
-      <root url="file:///media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/res" />
+      <root url="file:///media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/libs/AndroidLib/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/res" />
+      <root url="jar:///media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/libs/AndroidLib/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar!/" />
+      <root url="jar:///media/EST_500GB/Cloud/Dropbox/Private/CursoAndroid/src/BuiltItBigger/libs/AndroidLib/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

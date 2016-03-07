@@ -3,5 +3,7 @@ include ':JavaLib'
 project(':JavaLib').projectDir = new File(rootDir, 'libs/JavaLib')
 include ':AndroidLib'
 project(':AndroidLib').projectDir = new File(rootDir, 'libs/AndroidLib')
+include ':Backend'
+project(':Backend').projectDir = new File(rootDir, 'libs/Backend')
 
 
